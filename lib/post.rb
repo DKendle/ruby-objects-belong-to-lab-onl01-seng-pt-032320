@@ -1,7 +1,7 @@
 class Post 
   
-  def name=(name)
-    @name =name 
+  def title=(title)
+    @title = title
   end
   
   
